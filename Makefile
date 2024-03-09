@@ -6,7 +6,7 @@ all: results/horse_pop_plot_largest_sd.png \
 	results/horses_spread.csv \
 	reports/qmd_example.html \
 	reports/qmd_example.pdf
-
+#makes all, to generate the 5 file, each is written below how to geenrate
 
 
 # generate figures and objects for report
