@@ -1,4 +1,4 @@
-# important, need to run following command in the conda env:\
+# important, need to run following command in the conda env:
 TinyTeX is installed by:
 
 ```
