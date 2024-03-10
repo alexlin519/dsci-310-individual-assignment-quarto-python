@@ -1,10 +1,10 @@
 # important, need to run following command in the conda env:\\
-TinyTeX is installed by:\\
+TinyTeX is installed by:
 
 ```
 curl -sL "https://yihui.org/tinytex/install-bin-unix.sh" | sh
 ```
-\\
+
 
 (for more information:https://yihui.org/tinytex/)
 
